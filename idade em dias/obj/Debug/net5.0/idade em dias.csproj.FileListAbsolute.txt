@@ -1,0 +1,16 @@
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\idade em dias\obj\Debug\net5.0\idade em dias.csproj.AssemblyReference.cache
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\idade em dias\obj\Debug\net5.0\idade em dias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\idade em dias\obj\Debug\net5.0\idade em dias.AssemblyInfoInputs.cache
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\idade em dias\obj\Debug\net5.0\idade em dias.AssemblyInfo.cs
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\idade em dias\obj\Debug\net5.0\idade em dias.csproj.CoreCompileInputs.cache
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\idade em dias\bin\Debug\net5.0\idade em dias.exe
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\idade em dias\bin\Debug\net5.0\idade em dias.deps.json
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\idade em dias\bin\Debug\net5.0\idade em dias.runtimeconfig.json
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\idade em dias\bin\Debug\net5.0\idade em dias.runtimeconfig.dev.json
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\idade em dias\bin\Debug\net5.0\idade em dias.dll
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\idade em dias\bin\Debug\net5.0\ref\idade em dias.dll
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\idade em dias\bin\Debug\net5.0\idade em dias.pdb
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\idade em dias\obj\Debug\net5.0\idade em dias.dll
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\idade em dias\obj\Debug\net5.0\ref\idade em dias.dll
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\idade em dias\obj\Debug\net5.0\idade em dias.pdb
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\idade em dias\obj\Debug\net5.0\idade em dias.genruntimeconfig.cache
